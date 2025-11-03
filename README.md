@@ -14,6 +14,33 @@
 - Excel, Reporting & BI Tools
 - Ticketing Systems (Freshdesk, Jira)
 
+## 🌟 Featured Projects
+
+### 🔮 Tarot – Interactive Storytelling with Python  
+*Code in Place, Stanford University (2023)*  
+A narrative-driven console program that simulates a psychic tarot reading experience.  
+- Built with **Python**, **JSON**, and timing-based narration for immersive user interaction.  
+- Dynamically loads tarot cards and spreads from structured JSON files (`deck.json`, `positions.json`).  
+- Uses custom “typewriter” effects for cinematic pacing and dialogue delivery.  
+- Integrates randomness and branching text to make each reading unique.  
+📂 [github.com/eileen562lb/Tarot](https://github.com/eileen562lb/Tarot)
+
+---
+
+### 🛰️ TelHawk Proxy – Real-Time Telemetry & Bot Detection Middleware  
+A transparent reverse proxy built in **Go** that injects tracking code into HTML responses to collect telemetry for fraud detection and performance analytics.  
+- HMAC-authenticated event collection with pluggable sinks (**NDJSON**, **Kafka**, **PostgreSQL**).  
+- Privacy-aware, compliance-conscious, and production-ready with **Prometheus** metrics.  
+📂 [github.com/telhawk-systems/telhawk-proxy](https://github.com/telhawk-systems/telhawk-proxy)
+
+---
+
+### 🦅 TelHawk Stack – Open Cybersecurity SIEM Platform (Splunk-Compatible)  
+An **OCSF-compliant**, **Go-based** SIEM platform using **OpenSearch** for scalable event storage and query.  
+- Modular microservices for auth, ingestion, query, and visualization.  
+- CLI tool (`thawk`) for authentication, event management, and SPL-style searches.  
+- Splunk HEC-compatible ingestion for easy migration from enterprise tools.  
+📂 [github.com/telhawk-systems/telhawk-stack](https://github.com/telhawk-systems/telhawk-stack)
 ---
 
 ### 💼 Experience Highlights
@@ -31,8 +58,7 @@
 ---
 
 ### 📫 Contact
-✉️ **eileen562lb@gmail.com**  
-💼 [LinkedIn](#)
+💼 [LinkedIn](https://www.linkedin.com/in/eileen-horton-a77a3b370/)
 
 ---
 
